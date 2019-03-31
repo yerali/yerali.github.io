@@ -1,3 +1,18 @@
 SECTION {  background: #CCCCCC;  color:#666666; font-family: verdana;  }
 
 HH1 { color:#666666;  font-family:lato;}
+
+.container-grid {
+  display: grid;
+  grid-template-columns: 200px 1000px; /*columns widths*/
+  height: 40vh;
+}
+
+.col-1 {
+  background-color: white;
+}
+
+.col-2 {
+  background-color: white;
+}
+
