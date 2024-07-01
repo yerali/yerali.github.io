@@ -1,6 +1,6 @@
 SECTION {  background: #CCCCCC;  color:#666666; font-family: verdana;  }
 
-NOM { font-family: Helvetica, Sans-Serif; font-size: 12pt; color: #722F37; font-style: italic; font-weight: bold;} 
+NOM { font-family: Helvetica, Sans-Serif; font-size: 12pt; color: #722F37; font-style: italic; font-weight: bold; } 
 
 PAPER { font-family: verdana, Sans-Serif; font-size: 11pt; color: #4E4E4E; }
 
@@ -19,4 +19,11 @@ HH1 { color:#666666;  font-family:lato;}
 .col-2 {
   background-color: white;
 }
+
+
+
+
+
+
+
 
