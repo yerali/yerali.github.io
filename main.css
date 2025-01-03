@@ -1,4 +1,4 @@
-SECTION {  background: #CCCCCC;  color:#666666; font-family: lato;  }
+SECTION {  background: #CCCCCC;  color:#666666; font-family: verdana;  }
 
 NOM { font-family: Helvetica, Sans-Serif; font-size: 12pt; color: #722F37; font-style: italic; font-weight: bold; } 
 
@@ -20,6 +20,9 @@ HH1 { color:#666666;  font-family:lato;}
   background-color: white;
 }
 
+.col-3 {
+  background-color: black; width: 1400px; margin-left: 1em;
+}
 
 
 
